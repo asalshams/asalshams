@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asalshams
-- 👀 I’m interested in cloud computing and architecture
+- 👀 I’m interested in cloud computing
 - 📫 How to reach me: LinkedIn: @asalshams
 
 <!---
